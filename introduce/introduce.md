@@ -29,7 +29,7 @@
 
 <br>
 
-![img.png](img.png)
+![img.png](../image/img.png)
 - 여기서 제일 위의 컴퓨터 = **host 컴퓨터**
 
 
